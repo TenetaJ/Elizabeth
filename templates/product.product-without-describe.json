@@ -48,6 +48,9 @@
         "description",
         "checkout_buttons"
       ],
+      "custom_css": [
+        "button {background-color: blue; color: black; font-weight: bold; font-size: 32px; width: 50%;}"
+      ],
       "settings": {
       }
     }
