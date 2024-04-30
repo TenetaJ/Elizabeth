@@ -19,7 +19,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button {background-color: yellowgreen;}"
+
     ]
   }
 }
